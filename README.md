@@ -74,4 +74,4 @@ yarn start
 
 Fábio Farias Moreira
 
-https://www.linkedin.com/in/fabiofariaseditor
+https://www.linkedin.com/in/fabiosi/
